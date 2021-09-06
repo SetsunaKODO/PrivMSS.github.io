@@ -1,0 +1,42 @@
+h1
+{
+  color: red;
+}
+
+h2
+{
+  color: whitesmoke;
+}
+
+title
+{
+
+  color: darkred;
+}
+
+body
+{
+  background-color: black;
+}
+
+li
+{
+  color: whitesmoke;
+}
+
+body
+{background-image:url(https://cdn.pixabay.com/photo/2020/02/09/17/52/galaxy-4834016_1280.jpg);
+}
+#carte
+{
+
+
+  width: 1000px;
+  margin:0 auto;
+  
+text-align: center;
+align-content: center;
+
+}
+
+
